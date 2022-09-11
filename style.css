@@ -1,0 +1,60 @@
+body {
+    font-family: 'Noto Sans Buhid', sans-serif;
+
+}
+
+.container {
+    margin: auto 20px;
+}
+
+.header-logo {
+    font-size: 74px;
+    font-weight: 800px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.header-title {
+    font-size: 74px;
+    line-height: 89.2%;
+    font-weight: 300px;
+    width: 878px;
+
+
+    margin-bottom: 20px;
+    margin-top: 150px;
+}
+
+.header-inner {
+    display: flex;
+}
+
+.header-btn a {
+font-size: 39px;
+font-weight: 800;
+padding: 10px 15px;
+background-color: #fff;
+text-decoration: none;
+color: #000;
+border: 6px #000 solid;
+border-radius: 10px;
+}
+
+.iphone-1 {
+    height: 476px;
+    width: 436px;
+
+    position: absolute;
+    z-index: 2;
+    right: 80px;
+    bottom: 1px;
+}
+
+.iphone-2 {
+    height: 507px;
+    width: 268px;
+
+    position: absolute;
+    z-index: 1;
+    right: 20px;
+}
